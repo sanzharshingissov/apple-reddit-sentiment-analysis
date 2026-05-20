@@ -1,0 +1,8 @@
+praw
+pandas
+psycopg2-binary
+nltk
+matplotlib
+seaborn
+wordcloud
+python-dotenv
